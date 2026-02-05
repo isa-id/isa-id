@@ -64,9 +64,7 @@ I enjoy solving logic puzzles and building tiny hardware projects on the weekend
 
 ## 📈 GitHub Stats (optional)
 <!-- Uncomment and replace with your preferred badges or stats images -->
-<!--
 ![isa-id's GitHub stats](https://github-readme-stats.vercel.app/api?username=isa-id&show_icons=true)
--->
 
 ---
 
