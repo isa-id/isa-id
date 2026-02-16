@@ -7,12 +7,12 @@
       <img src="https://i.imgur.com/IQPQIii.jpeg" alt="FotoMia" />
     </td>
     <td width="70%">
-      <h3>Sobre mí</h3>
+      <h3>About me</h3>
       <ul>
-        <li>Desarrollador backend y frontend</li>
-        <li>Técnico en Programación de Software (Certificado)</li>
-        <li>Tecnologo en Análisis y Desarorollo de Software (Certificando)</li>
-        <li>Ingeniería en sistemas (Proximamente)</li>
+        <li>Backend and Frontend Developer</li>
+        <li>Software Programming Technician (Certified) ✅</li>
+        <li>Software Analysis and Development Technologist (Certifying) ✅</li>
+        <li>Systems Engineering (Coming Soon) 🔜</li>
       </ul>
     </td>
   </tr>
