@@ -66,7 +66,7 @@
 ### 📫 Contacto
 <p align="left">
   <a href="https://discordapp.com/users/487303308592152576" target="_blank">
-    <img src="https://img.shields.io/badge/i_said-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord" />
+    <img src="https://img.shields.io/badge/i__said-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord" />
   </a>
 </p>
 </p>
