@@ -65,5 +65,6 @@
 
 ### 📫 Contacto
 <p align="left">
-<a href="https://linkedin.com/in/[TU_LINKEDIN]" target="blank"><img align="center" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+  <img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord" /> 
+  <span><b>Mi usuario:</b> i_said </span>
 </p>
