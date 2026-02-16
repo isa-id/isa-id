@@ -20,7 +20,7 @@
 
 ---
 
-### 🚀 Lenguajes de Programación
+### 🚀 Programming Languages
 
 <p align="left">
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
@@ -34,7 +34,7 @@
 
 ---
 
-### 🛠️ Frameworks & Librerías
+### 🛠️ Frameworks and Libraries
 
 <p align="left">
   <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
@@ -47,7 +47,7 @@
 
 ---
 
-### 🗄️ Bases de Datos
+### 🗄️ Databases
 
 <p align="left">
   <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" />
