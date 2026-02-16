@@ -11,7 +11,7 @@
         <li>Desarrollador backend y frontend</li>
         <li>Técnico en Programación de Software (Certificado)</li>
         <li>Tecnologo en Análisis y Desarorollo de Software (Certificando)</li>
-        <li>Ingenieria en sistemas (Proximamente)</li>
+        <li>Ingeniería en sistemas (Proximamente)</li>
       </ul>
     </td>
   </tr>
