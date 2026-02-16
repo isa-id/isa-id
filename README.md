@@ -9,7 +9,7 @@
     <td width="70%">
       <h3>About me</h3>
       <ul>
-        <li>Colombia</li>
+        <li>Colombia pa</li>
         <li>Backend and Frontend Developer</li>
         <li>Software Programming Technician (Certified) ✅</li>
         <li>Software Analysis and Development Technologist (Certifying) ✅</li>
