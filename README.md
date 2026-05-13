@@ -13,7 +13,7 @@
         <li>Backend and Frontend Developer</li>
         <li>Software Programming Technician (Certified) ✅</li>
         <li>Software Analysis and Development Technologist (Certifying) ✅</li>
-        <li>Systems Engineering (Coming Soon) 🔜</li>
+        <li>Software Engineering (Coming Soon) 🔜</li>
       </ul>
     </td>
   </tr>
