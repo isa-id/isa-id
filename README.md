@@ -12,7 +12,7 @@
         <li>Colombia pa</li>
         <li>Backend and Frontend Developer</li>
         <li>Software Programming Technician (Certified) ✅</li>
-        <li>Software Analysis and Development Technologist (Certifying) ✅</li>
+        <li>Software Analysis and Development Technologist (Certified) ✅</li>
         <li>Software Engineering (Coming Soon) 🔜</li>
       </ul>
     </td>
